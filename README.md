@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rolf!
+- 👀 I enjoy programming👨‍💻, West Coast Swing💃🏻🕺🏿, lifting weights🏋, reading 🤓, coffee ☕️ and photography 📸..
+- 🌱 I’m currently learning Full Stack Development in Tel Aviv, Israel.
+- 📫 Let's chat 🐧 RolfHegrand or rolfhegrand@gmail.com
