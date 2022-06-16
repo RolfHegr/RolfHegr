@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rolf!
 - 👀 I enjoy programming👨‍💻, West Coast Swing💃🏻🕺🏿, lifting weights🏋, reading 🤓, coffee ☕️ and photography 📸..
-- 🌱 I’m currently learning Full Stack Development in Tel Aviv, Israel.
+- 🌱 I’m currently interning as a full stack dev in a small startup in Tel Aviv.
 - 📫 Let's chat 🐧 RolfHegrand or rolfhegrand@gmail.com
