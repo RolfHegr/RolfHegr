@@ -1,5 +1,8 @@
 I’m Rolf! 
 
-@Full stack dev at a Start Up in Tel Aviv.
+I consider myself a Full Stack Developer.
+The last year I've been doing Cloud Development in .NET with Azure Services.
+
+
 
 - 📫 RolfHegrand or rolfhegrand@gmail.com
