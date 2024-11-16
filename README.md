@@ -1,7 +1,5 @@
 I’m Rolf! 
 
-Since 2022 i've been developing cloud infrastructure: C#, .NET & Azure Resources.
-Used to write frontend. 
+Worked as a frontend developer for a few years, then Cloud since 2022.
 
-
-- 📫 RolfHegrand or rolfhegrand@gmail.com
+✉️ rhegrand@icloud.comm || @LinkedIn
